@@ -11,7 +11,7 @@ body{
     width: 100%;
     height: 850px;
     
-        background-image: url( images/old\ munk\ background\ image.png);
+        background-image: url(old\ munk\ background\ image.png);
   
   background-size: cover;
   display: flex;
